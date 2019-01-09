@@ -12,4 +12,4 @@ dependencies:
 - vs2015_runtime=14.15.26706=h3a45250_0
 - wheel=0.32.3=py36_0
 - wincertstore=0.2=py36h7fe50ca_0
-prefix: C:\Users\josem\AppData\Local\conda\conda\envs\ocr_deploy
+prefix: 
